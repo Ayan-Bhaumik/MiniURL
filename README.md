@@ -1,4 +1,4 @@
-# Mini URL - A Next.js Project
+# Mini URL - Custom URL Shortener Built with Next.js and MongoDB
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
